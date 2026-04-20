@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!--![Nirajan's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nb183&langs_count=7&layout=compact&theme=radical) -->
 
-Graduate Assistant, [WSU](https://www.wichita.edu/)
+<!-- Graduate Assistant, [WSU](https://www.wichita.edu/)
